@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
-    "live-server": "1.2.0"
+    "live-server": "1.2.1"
   }
 }
