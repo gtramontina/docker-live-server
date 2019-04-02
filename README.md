@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Docker image for <a href="https://github.com/ta/live-server"><code>live-server</code></a>
+  Docker image for <a href="https://github.com/tapio/live-server"><code>live-server</code></a>
 </p>
 
 ---
