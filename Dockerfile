@@ -1,4 +1,4 @@
-FROM node:16.6.0-alpine@sha256:a55cd676d1aec59d871855b86984063c8854e67a7f552af66418c5068103a509
+FROM node:24.22.0-alpine@sha256:44fce696f38ba8c987c4db89954051000bbd05ffd8d8659ba15ed4a8602e937f
 
 ENV NODE_PATH=${NODE_PATH}:/opt/npm.global
 ENV PATH=${PATH}:/opt/npm.global/.bin
